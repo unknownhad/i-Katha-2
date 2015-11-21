@@ -1,0 +1,90 @@
+{
+    "StoryArrayofObjects": [
+                            {
+                            "screenIndex":1,
+                            "Image": "iKDiwali_11.png",
+                            "Audio": "iKDiwali_11",
+                            "Sentence": "Every year we celebrate Diwali.  Diwali is a festival of lights."
+                            },
+                            {
+                            "screenIndex":2,
+                            "Image": "iKDiwali_12.png",
+                            "Audio": "iKDiwali_12",
+                            "Sentence": "On Diwali day we wear new clothes and eat sweets"
+                            },
+                            {
+                            "screenIndex":3,
+                            "Image": "iKDiwali_13.png",
+                            "Audio": "iKDiwali_13",
+                            "Sentence": "We visit friends and relatives on Diwali."
+                            },
+                            {
+                            "screenIndex":4,
+                            "Image": "iKDiwali_14.png",
+                            "Audio": "iKDiwali_14",
+                            "Sentence": "We celebrate Diwali by lighting  fireworks and crackers"
+                            },
+                            {
+                            "screenIndex":5,
+                            "Image": "iKDiwali_15.png",
+                            "Audio": "iKDiwali_15",
+                            "Sentence": "Fireworks and crackers can be fun"
+                            },
+                            {
+                            "screenIndex":6,
+                            "Image": "iKDiwali_16.png",
+                            "Audio": "iKDiwali_16",
+                            "Sentence": "Crackers and Fireworks can be dangerous. Touching them may not be a good idea"
+                            },
+                            {
+                            "screenIndex":7,
+                            "Image": "iKDiwali_17.png",
+                            "Audio": "iKDiwali_17",
+                            "Sentence": "I will get an adult to help me to light crackers and fireworks"
+                            },
+                            {
+                            "screenIndex":8,
+                            "Image": "iKDiwali_18.png",
+                            "Audio": "iKDiwali_18",
+                            "Sentence": "Sometimes fireworks and crackers make very loud noises and have bright lights."
+                            },
+                            {
+                            "screenIndex":9,
+                            "Image": "iKDiwali_19.png",
+                            "Audio": "iKDiwali_19",
+                            "Sentence": "If the crackers get too loud, I can cover my ears with my hands or wear earplugs"
+                            },
+                            {
+                            "screenIndex":10,
+                            "Image": "iKDiwali_20.png",
+                            "Audio": "iKDiwali_20",
+                            "Sentence": "If I do not want to look at the bright fireworks, I can close my eyes or wear sunglasses"
+                            },
+                            {
+                            "screenIndex":11,
+                            "Image": "iKDiwali_21.png",
+                            "Audio": "iKDiwali_21",
+                            "Sentence": "I can go inside and listen to music or watch TV. I can stay inside the car"
+                            },
+                            {
+                            "screenIndex":12,
+                            "Image": "iKDiwali_22.png",
+                            "Audio": "iKDiwali_22",
+                            "Sentence": " If I am scared I will hug my mother or father. Hugging them may help me feel safer"
+                            },
+                            {
+                            "screenIndex":13,
+                            "Image": "iKDiwali_23.png",
+                            "Audio": "iKDiwali_23",
+                            "Sentence": "I can also lie in my bed and cover myself. This may help me feel safer too."
+                            },
+                            {
+                            "screenIndex":14,
+                            "Image": "iKDiwali_24.png",
+                            "Audio": "iKDiwali_24",
+                            "Sentence": "Next year, I will be older and I may enjoy the Fireworks and Crackers for Diwali .This will make my family happy."
+                            },
+                            ],
+    "ScreenCount":13,
+    "storyTitle":"Celebrating Diwali"
+}

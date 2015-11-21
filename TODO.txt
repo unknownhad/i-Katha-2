@@ -1,0 +1,14 @@
+===================================TODO.txt=======================================
+TODO TODO, TODO TODO TODO--TODO TODO, TODO
+
+TODO:
+
+Features:
+1) Story sharing Feature: Creating an api where user can share the self created story with 
+others. So other's can download and use it.
+
+
+Bugs:
+No Bugs as of yet, will update this once any bug found.
+
+Yah I am cool coder ^_^

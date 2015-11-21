@@ -1,0 +1,72 @@
+{
+    "StoryArrayofObjects": [
+                            {
+                            "screenIndex":1,
+                            "Image": "iKComp_11.png",
+                            "Audio": "iKComp_11",
+                            "Sentence": "I come to PRAYAS LAB everyday to learn computer and iPad skills"
+                            },
+                            {
+                            "screenIndex":2,
+                            "Image": "iKComp_12.png",
+                            "Audio": "iKComp_12",
+                            "Sentence": "Computers and iPad’s are fun and also help me learn many things"
+                            },
+                            {
+                            "screenIndex":3,
+                            "Image": "iKComp_13.png",
+                            "Audio": "iKComp_13",
+                            "Sentence": "Everyone likes computers and iPad’s just like everyone likes to have friends"
+                            },
+                            {
+                            "screenIndex":4,
+                            "Image": "iKComp_14.png",
+                            "Audio": "iKComp_14",
+                            "Sentence": "I will remember to be gentle and careful while using the computer and iPad"
+                            },
+                            {
+                            "screenIndex":5,
+                            "Image": "iKComp_15.png",
+                            "Audio": "iKComp_15",
+                            "Sentence": "Banging on the Computer or iPad may damage them"
+                            },
+                            {
+                            "screenIndex":6,
+                            "Image": "iKComp_16.png",
+                            "Audio": "iKComp_16",
+                            "Sentence": "Banging on the computers and iPad is not okay."
+                            },
+                            {
+                            "screenIndex":7,
+                            "Image": "iKComp_17.png",
+                            "Audio": "iKComp_17",
+                            "Sentence": "Eating or drinking near the computer or iPad is not a good idea"
+                            },
+                            {
+                            "screenIndex":8,
+                            "Image": "iKComp_18.png",
+                            "Audio": "iKComp_18",
+                            "Sentence": "If the food or liquids fall on the computer or iPad they may get damaged and stop working"
+                            },
+                            {
+                            "screenIndex":9,
+                            "Image": "iKComp_19.png",
+                            "Audio": "iKComp_19",
+                            "Sentence": "My hands may be dirty or have germs which can spread to others"
+                            },
+                            {
+                            "screenIndex":10,
+                            "Image": "iKComp_20.png",
+                            "Audio": "iKComp_20",
+                            "Sentence": "I need to wash my hands before using the computer"
+                            },
+                            {
+                            "screenIndex":11,
+                            "Image": "iKComp_21.png",
+                            "Audio": "iKComp_21",
+                            "Sentence": "If we take good care of our computers they will work better and longer for us"
+                            }
+                            ],
+    "ScreenCount":10,
+    "storyTitle":"Taking care of my Computer/ iPad"
+}
